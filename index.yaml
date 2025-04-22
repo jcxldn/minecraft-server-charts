@@ -4034,6 +4034,37 @@ entries:
           url: https://hub.docker.com/r/itzg/bungeecord
     apiVersion: v1
     appVersion: SeeValues
+    created: "2025-04-22T17:28:00.000000000Z"
+    description: Minecraft proxy server (BungeeCord, Waterfall, Velocity, etc.)
+    digest: a9e973d915082e79b705e70bf28bc43fb774377274f65911866d5ac317273906 
+    home: https://github.com/jcxldn/minecraft-server-charts
+    keywords:
+    - proxy
+    - game
+    - server
+    maintainers:
+    - email: hello@chipwolf.uk
+      name: chipwolf
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft-proxy
+    sources:
+    - https://github.com/jcxldn/minecraft-server-charts
+    urls:
+    - https://github.com/jcxldn/minecraft-server-charts/releases/download/minecraft-proxy-3.9.0/minecraft-proxy-3.9.0.tgz
+    version: 3.9.0+jcx1
+  - annotations:
+      artifacthub.io/links: |
+        - name: Image source
+          url: https://github.com/itzg/docker-bungeecord
+        - name: Image DockerHub
+          url: https://hub.docker.com/r/itzg/bungeecord
+    apiVersion: v1
+    appVersion: SeeValues
     created: "2025-03-20T23:27:33.542060132Z"
     description: Minecraft proxy server (BungeeCord, Waterfall, Velocity, etc.)
     digest: 4c117abea82164d506e9bc98bb6cdf878a47b28d764e134346fa6f02f4e9b31d
