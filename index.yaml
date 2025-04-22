@@ -4036,7 +4036,7 @@ entries:
     appVersion: SeeValues
     created: "2025-04-22T17:28:00.000000000Z"
     description: Minecraft proxy server (BungeeCord, Waterfall, Velocity, etc.)
-    digest: a9e973d915082e79b705e70bf28bc43fb774377274f65911866d5ac317273906 
+    digest: sha256:e56cffc59fcaaf18b4ba96b962eb01e419d7e60ec1e5e8b55b1e54c224bfcd7c 
     home: https://github.com/jcxldn/minecraft-server-charts
     keywords:
     - proxy
@@ -4056,7 +4056,7 @@ entries:
     - https://github.com/jcxldn/minecraft-server-charts
     urls:
     - https://github.com/jcxldn/minecraft-server-charts/releases/download/minecraft-proxy-3.9.0/minecraft-proxy-3.9.0.tgz
-    version: 3.9.0+jcx1
+    version: 3.9.0+jcx2
   - annotations:
       artifacthub.io/links: |
         - name: Image source
